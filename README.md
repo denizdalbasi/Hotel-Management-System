@@ -67,11 +67,18 @@ HotelReservationSystem/
 
 ## 📄 Data File Formats
 
-### user.txt
+ user.txt
 
-### reservations.txt
+ reservations.txt
 
-### sehirler.txt
+ sehirler.txt
 
 
-### OTEL_BILGI.txt
+ OTEL_BILGI.txt
+
+
+
+
+
+
+
