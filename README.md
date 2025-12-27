@@ -1,45 +1,45 @@
 # Hotel-Management-System
 
-# 🏨 Hotel Reservation System (Java Swing)
+# Hotel Reservation System (Java Swing)
 
-## 📌 Overview
+##  Overview
 The **Hotel Reservation System** is a Java Swing–based desktop application that allows users to register, log in, view hotels, and manage hotel reservations.  
 The system uses **text files** for persistent data storage and demonstrates core **Object-Oriented Programming (OOP)** principles.
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👤 User Features
+###  User Features
 - User registration
 - Secure login validation
 - View personal reservations
 
-### 🏨 Hotel Features
+###  Hotel Features
 - View available cities
 - View hotels in selected cities
 - Display hotel details (view, capacity, type)
 
-### 📅 Reservation Features
+###  Reservation Features
 - Make hotel reservations
 - Cancel reservations
 - Modify existing reservations
 - Prevent overlapping bookings
 
-### 💳 Payment System
+###  Payment System
 - Cash payment option
 - Online payment simulation
   - Credit card number validation
   - Expiry date validation
   - CVV validation
 
-### 🖥 GUI
+###  GUI
 - Built with **Java Swing**
 - User-friendly dialogs and windows
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Java
 - Java Swing
 - File I/O
@@ -47,7 +47,7 @@ The system uses **text files** for persistent data storage and demonstrates core
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 HotelReservationSystem/
 │
@@ -65,7 +65,7 @@ HotelReservationSystem/
 
 ---
 
-## 📄 Data File Formats
+##  Data File Formats
 
  user.txt
 
